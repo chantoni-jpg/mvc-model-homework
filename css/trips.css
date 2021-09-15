@@ -1,0 +1,14 @@
+.trips h1 {
+  font-family: sans-serif;
+  margin-top: 100px;
+  text-align: center;
+}
+.trips .korea {
+  background-image: url(/images/korea.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 400px;
+  width: 1200px;
+  position: relative;
+  left: 40px;
+}

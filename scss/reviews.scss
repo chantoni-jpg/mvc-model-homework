@@ -1,0 +1,39 @@
+.reviews {
+  h1 {
+    font-family: sans-serif;
+    margin-top: 100px;
+    text-align: center;
+  }
+  .img5 {
+    background-image: url(/images/image.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    width: 1200px;
+    position: relative;
+    left: 40px;
+  }
+  .img6 {
+    background-image: url(/images/man.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    width: 1200px;
+    position: relative;
+    left: 40px;
+  }
+  .text {
+    position: relative;
+    left: 500px;
+    bottom: 250px;
+    width: 40%;
+    font-family: sans-serif;
+  }
+  .text2 {
+    position: relative;
+    left: 500px;
+    bottom: 250px;
+    width: 40%;
+    font-family: sans-serif;
+  }
+}

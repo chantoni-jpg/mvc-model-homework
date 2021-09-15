@@ -1,0 +1,29 @@
+.trips {
+  h1 {
+    font-family: sans-serif;
+    margin-top: 100px;
+    text-align: center;
+  }
+  .korea {
+    background-image: url(/images/korea.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    width: 1200px;
+    display: flex;
+    margin-left: 400px;
+  }
+  .vietnam {
+    background-image: url(/images/vietnam.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    width: 1200px;
+    display: flex;
+    margin-left: 400px;
+  }
+  .text {
+    margin: 50px;
+    font-family: sans-serif;
+  }
+}
