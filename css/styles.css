@@ -26,7 +26,7 @@ p {
   text-align: center;
 }
 .home .img1 {
-  background-image: url(/images/620-japan.jpg);
+  background-image: url(../images/620-japan.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 200px;
@@ -37,7 +37,7 @@ p {
   left: 400px;
 }
 .home .img2 {
-  background-image: url(/images/merlin_182084043_c15acc8f-31de-412d-ab41-c20e5565b832-mediumSquareAt3X.jpg);
+  background-image: url(../images/merlin_182084043_c15acc8f-31de-412d-ab41-c20e5565b832-mediumSquareAt3X.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 200px;
@@ -79,7 +79,7 @@ nav a:visited {
   text-align: center;
 }
 .about .img3 {
-  background-image: url(/images/03418e6d7e65abf13c56711561021854.jpg);
+  background-image: url(../images/03418e6d7e65abf13c56711561021854.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 200px;
@@ -90,7 +90,7 @@ nav a:visited {
   left: 400px;
 }
 .about .img4 {
-  background-image: url(/images/england-in-pictures-beautiful-places-to-photograph-london.jpg);
+  background-image: url(../images/england-in-pictures-beautiful-places-to-photograph-london.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 200px;
@@ -113,7 +113,7 @@ nav a:visited {
   text-align: center;
 }
 .reviews .img5 {
-  background-image: url(/images/image.jfif);
+  background-image: url(../images/image.jfif);
   background-repeat: no-repeat;
   background-size: contain;
   height: 400px;
@@ -122,7 +122,7 @@ nav a:visited {
   left: 40px;
 }
 .reviews .img6 {
-  background-image: url(/images/man.jfif);
+  background-image: url(../images/man.jfif);
   background-repeat: no-repeat;
   background-size: contain;
   height: 400px;
@@ -151,7 +151,7 @@ nav a:visited {
   text-align: center;
 }
 .trips .korea {
-  background-image: url(/images/korea.jpg);
+  background-image: url(../images/korea.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 400px;
@@ -162,7 +162,7 @@ nav a:visited {
   margin-left: 400px;
 }
 .trips .vietnam {
-  background-image: url(/images/vietnam.jpg);
+  background-image: url(../images/vietnam.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 400px;
